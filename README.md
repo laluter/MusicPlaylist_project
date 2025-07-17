@@ -8,7 +8,9 @@
 
 ## 기술 스택
 Java
+
 JDBC
+
 Oracle DB
 
 ## 실행 방법
