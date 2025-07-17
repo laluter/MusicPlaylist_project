@@ -55,29 +55,8 @@ https://youtu.be/xsAjxP-0nbI
 
 프로젝트 폴더 구조
 
-src/
- ├─ model/
- │   ├─ Music.java
- │   └─ User.java
- ├─ dao/
- │   ├─ MusicDao.java / MusicDaoImpl.java
- │   ├─ UserDao.java / UserDaoImpl.java
- │   ├─ FavoriteDao.java / FavoriteDaoImpl.java
- ├─ service/
- │   ├─ MusicService.java
- │   ├─ UserService.java
- │   ├─ AdminService.java
- │   └─ SearchStatisticsService.java
- ├─ view/
- │   ├─ ConsoleMenu.java
- │   ├─ AdminMenu.java
- │   ├─ AdminView.java
- │   ├─ MusicView.java
- │   └─ SearchMenu.java
- ├─ util/
- │   └─ DBUtil.java
- └─ main/
-     └─ Main.java
+<img width="718" height="548" alt="image" src="https://github.com/user-attachments/assets/b0dd66f9-f280-470c-98f4-c5dbcc52ee67" />
+
 
 데이터베이스 구조 (ERD)
 
