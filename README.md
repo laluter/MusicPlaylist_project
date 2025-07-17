@@ -15,9 +15,13 @@ Oracle DB
 
 ## 실행 방법
 Oracle DB에 전체 테이블/시퀀스/트리거 쿼리 실행해 DB 초기화
+
 /src/util/DBUtil.java에서 자신의 DB 접속 정보(계정, 비번 등) 세팅
+
 프로젝트에 JDBC 라이브러리(Oracle JDBC Driver 등) 추가
+
 Main.java 파일 실행 (콘솔 환경)
+
 콘솔 메뉴에서 회원가입/검색/즐겨찾기/관리자 메뉴 등 자유롭게 사용
 
 ## 시연 영상
