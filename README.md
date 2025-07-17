@@ -16,7 +16,9 @@ JDBC
 Oracle DB
 
 ## 실행 방법
-Oracle DB에 전체 테이블/시퀀스/트리거 쿼리 실행해 DB 초기화
+Oracle DB에 MUSIC_DDL.sql 파일의 쿼리를 실행 후 커밋
+
+테이블 만든 후 MUSIC_DATA.sql 파일의 쿼리를 실행하여 임시 데이터를 추가
 
 /src/util/DBUtil.java에서 자신의 DB 접속 정보(계정, 비번 등) 세팅
 
